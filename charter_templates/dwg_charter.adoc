@@ -16,10 +16,10 @@
 |{set:cellbgcolor:#FFFFFF}
 |[big]*Open Geospatial Consortium*
 |Submission Date: <yyyy-mm-dd>
-|Approval Date:   <yyyy-mm-dd>
-|Internal reference number of this OGC(R) document:    YY-nnnrx
+|Approval Date: <yyyy-mm-dd>
+|Internal reference number of this OGC(R) document: YY-nnnrx
 |Category: OGC(R) Domain Working Group Charter
-|Authors:   <Name(s) of Editor or Editors>
+|Authors: <Name(s) of Editor or Editors>
 |===
 
 [cols = "^", frame = "none"]
@@ -38,7 +38,7 @@
 
 == Introduction
 
-This Domain Working Group (DWG) charter defines the role for OGC activities within the <NAME of DOMAIN information community> domain and to provide an open forum for the discussion and presentation of interoperability requirements, use cases, pilots, and implementations of OGC Standards in this domain. This Charter is to be presented to the OGC’s Technical and Planning Committees for consideration.
+This Domain Working Group (DWG) charter defines the role for OGC activities within the <DOMAIN> domain and to provide an open forum for the discussion and presentation of interoperability requirements, use cases, pilots, and implementations of OGC Standards in this domain. This Charter is to be presented to the OGC Technical and Planning Committees for consideration.
 
 Domains are distinct Information Communities that defines a user domain where:
 
