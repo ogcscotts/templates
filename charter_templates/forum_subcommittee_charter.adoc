@@ -1,0 +1,93 @@
+:Title: OGC (add title text)
+:titletext: {Title}
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc:
+:toc-placement!:
+:toclevels: 4
+:numbered:
+:sectanchors:
+:source-highlighter: pygments
+
+<<<
+[cols = ">",frame = "none",grid = "none"]
+|===
+|{set:cellbgcolor:#FFFFFF}
+|[big]*Open Geospatial Consortium*
+|Submission Date: <yyyy-mm-dd>
+|Approval Date: <yyyy-mm-dd>
+|Internal reference number of this OGC(R) document: YY-nnnrx
+|Category: OGC(R) <Regional Forum / Subcommittee> Charter
+|Authors: <Name(s) of Editor or Editors>
+|===
+
+[cols = "^", frame = "none"]
+|===
+|[big]*{titletext}*
+|===
+
+[cols = "^", frame = "none", grid = "none"]
+|===
+|*Copyright notice*
+|Copyright (C) <year> Open Geospatial Consortium
+|To obtain additional rights of use, visit http://www.opengeospatial.org/legal/
+|===
+
+<<<
+
+== Introduction
+
+This document is the Charter for a <name> <Forum / Subcommittee> on Geospatial under the auspices of the Technical Committee (TC) of the Open Geospatial Consortium (OGC). 
+
+////
+State the goal of the Forum or Subcommittee and the nature of the members. If a Regional Forum, describe the region and any needs or interests that region has that require special focus. If a Subcommittee, describe the nature of liaison activities OR policies that will be discussed. Note that Subcommittees are created to work with liaison partners or discuss/develop policy.
+////
+
+
+== Problem Statement
+
+////
+Detail specific reasons why the Forum or Subcommittee is being formed. Regional Forum charters should describe specific characteristics of the region that can be addressed best by a forum (such as working in the native language of the region, government policies that impact geospatial activities, a lack of regional awareness, etc.).
+
+Subcommittee charters should describe agreed work activities in the case of liaison coordination or identified policy gaps that will form the basis of discussion.
+////
+
+== Mission Objectives
+
+////
+Describe objectives the Forum or Subcommittee plans to achieve. What is the general purpose, who will be engaged, how will members benefit from engagement, what impact will this group have on OGC?
+////
+
+=== Charter members
+
+The charter members of the <group> are:
+
+<NAME and AFFILIATION>
+
+=== <group> Policies and Procedures
+
+////
+Clearly define any policies and procedures that are specific to the Forum or Subcommittee. If no special policies or procedures are to be defined, state the following.
+
+The <Forum / Subcommittee> will follow the Policies and Procedures of the TC, including those for subgroups of the TC.
+
+////
+
+=== Key activities
+
+////
+The Forum or Subcommittee will need to define key activities it intends on undertaking.  Examples of such activity might be framed around the following considerations.
+
+1.	Determine OGC goals and organizational issues that impact the scope of the group.
+
+2.	Define the business issues and approaches for OGC to incorporate so that group considerations are brought into proper focus with OGC Standards initiatives.  The approach includes defining business objectives, tasks, and schedule.
+
+3.	Define approach for engaging with the community to enlist their support.
+////
+
+== References
+
+////
+Optional list of references.
+////
