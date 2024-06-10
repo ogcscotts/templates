@@ -77,7 +77,7 @@ The <Forum / Subcommittee> will follow the Policies and Procedures of the TC, in
 === Key activities
 
 ////
-The Forum or Subcommittee will need to define key activities it intends on undertaking.  Examples of such activity might be framed around the following considerations.
+The Forum or Subcommittee will define key activities it intends on undertaking.  Examples of such activity might be framed around the following considerations.
 
 1.	Determine OGC goals and organizational issues that impact the scope of the group.
 
